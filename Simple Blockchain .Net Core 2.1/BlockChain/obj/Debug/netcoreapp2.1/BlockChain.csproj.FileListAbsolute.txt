@@ -1,0 +1,9 @@
+D:\My Framework\CoreBlockchain\Interface\BlockChain\bin\Debug\netcoreapp2.1\BlockChain.deps.json
+D:\My Framework\CoreBlockchain\Interface\BlockChain\bin\Debug\netcoreapp2.1\BlockChain.dll
+D:\My Framework\CoreBlockchain\Interface\BlockChain\bin\Debug\netcoreapp2.1\BlockChain.pdb
+D:\My Framework\CoreBlockchain\Interface\BlockChain\obj\Debug\netcoreapp2.1\BlockChain.csprojAssemblyReference.cache
+D:\My Framework\CoreBlockchain\Interface\BlockChain\obj\Debug\netcoreapp2.1\BlockChain.csproj.CoreCompileInputs.cache
+D:\My Framework\CoreBlockchain\Interface\BlockChain\obj\Debug\netcoreapp2.1\BlockChain.AssemblyInfoInputs.cache
+D:\My Framework\CoreBlockchain\Interface\BlockChain\obj\Debug\netcoreapp2.1\BlockChain.AssemblyInfo.cs
+D:\My Framework\CoreBlockchain\Interface\BlockChain\obj\Debug\netcoreapp2.1\BlockChain.dll
+D:\My Framework\CoreBlockchain\Interface\BlockChain\obj\Debug\netcoreapp2.1\BlockChain.pdb

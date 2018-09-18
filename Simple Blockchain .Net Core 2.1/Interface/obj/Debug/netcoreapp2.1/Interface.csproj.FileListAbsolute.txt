@@ -1,0 +1,14 @@
+D:\My Framework\CoreBlockchain\Interface\Interface\bin\Debug\netcoreapp2.1\Interface.deps.json
+D:\My Framework\CoreBlockchain\Interface\Interface\bin\Debug\netcoreapp2.1\Interface.runtimeconfig.json
+D:\My Framework\CoreBlockchain\Interface\Interface\bin\Debug\netcoreapp2.1\Interface.runtimeconfig.dev.json
+D:\My Framework\CoreBlockchain\Interface\Interface\bin\Debug\netcoreapp2.1\Interface.dll
+D:\My Framework\CoreBlockchain\Interface\Interface\bin\Debug\netcoreapp2.1\Interface.pdb
+D:\My Framework\CoreBlockchain\Interface\Interface\bin\Debug\netcoreapp2.1\BlockChain.dll
+D:\My Framework\CoreBlockchain\Interface\Interface\bin\Debug\netcoreapp2.1\BlockChain.pdb
+D:\My Framework\CoreBlockchain\Interface\Interface\obj\Debug\netcoreapp2.1\Interface.csprojAssemblyReference.cache
+D:\My Framework\CoreBlockchain\Interface\Interface\obj\Debug\netcoreapp2.1\Interface.csproj.CoreCompileInputs.cache
+D:\My Framework\CoreBlockchain\Interface\Interface\obj\Debug\netcoreapp2.1\Interface.AssemblyInfoInputs.cache
+D:\My Framework\CoreBlockchain\Interface\Interface\obj\Debug\netcoreapp2.1\Interface.AssemblyInfo.cs
+D:\My Framework\CoreBlockchain\Interface\Interface\obj\Debug\netcoreapp2.1\Interface.csproj.CopyComplete
+D:\My Framework\CoreBlockchain\Interface\Interface\obj\Debug\netcoreapp2.1\Interface.dll
+D:\My Framework\CoreBlockchain\Interface\Interface\obj\Debug\netcoreapp2.1\Interface.pdb
